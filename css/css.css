@@ -96,7 +96,7 @@ li{
 	-webkit-transform:rotateY(90deg) translateZ(50px);
 }
 .maxbox{
-	width: 800px;
+	width: 400px;
 	height: 400px;
 	position: absolute;
 	left: 0;
